@@ -1,3 +1,9 @@
+unix
+Fedora
+centos
+kali linux
+arch linux
+ubuntu
 Linux Kernel
 Linux Components
 Linux Lifecycle

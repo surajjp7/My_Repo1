@@ -1,2 +1,3 @@
 Hi, ABC Good Morning!
+Hi, Everyone! - Adding some new contents
 ABC Devops Training!

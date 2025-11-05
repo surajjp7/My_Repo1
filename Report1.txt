@@ -1,3 +1,6 @@
 Hi, ABC Good Morning!
+<<<<<<< HEAD
 Hi, Everyone! - Adding some new contents
 ABC Devops Training!
+=======
+>>>>>>> parent of 68ee038... stash practice

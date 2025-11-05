@@ -1,0 +1,6 @@
+unix
+Fedora
+centos
+kali linux
+arch linux
+ubuntu

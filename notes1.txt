@@ -3,3 +3,5 @@ Hi, Welcome to ABC!
 =======
 >>>>>>> ad76398... adding notes1
 hi, wlcome to git!
+Hello Everybody!
+Hello Everyone!
